@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class MoviesConfig(AppConfig):
+class JobBoardConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'movies'
+    name = 'job_board'
